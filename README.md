@@ -1,5 +1,5 @@
 
-## 中文说明｜Normative Scope（中文）
+## 中文说明｜Normative Scope
 
 **WorldSeed 并不是一个学习理论、智能理论或认知解释体系。**  
 它不解释学习如何发生、表示如何形成、泛化为何存在。
@@ -47,6 +47,39 @@ Its verdicts concern **semantic comparability only**, not whether a system “wo
 In this sense, WorldSeed is **orthogonal to learning mechanisms**.  
 It functions as a **semantic contract on learning claims**,  
 not as a prescription for models, datasets, or benchmarks.
+
+---
+### Semantic Scope
+
+WorldSeed 提供的是一个前置的语义一致性层，
+适用于那些基于观测过程、学习表示，
+或跨系统 / 实验比较而产生的结论主张。
+
+它不改变既有形式体系的内部数学结构，
+也不规定模型、方法或算法的选择。<br>
+
+WorldSeed 约束的是：
+这些形式体系所产生的结果，
+在何种条件下可以被有意义地解释为
+关于同一个世界的陈述。
+
+这类结论形式包括但不限于：
+学习系统、统计推断、仿真研究以及经验评估流程。
+
+---
+
+WorldSeed provides a pre-model semantic consistency layer
+for claims derived from observational processes, learned representations,
+or comparative evaluation across systems or experiments.
+
+It does not alter the internal mathematics of existing formalisms,
+nor does it prescribe models, methods, or algorithms.
+Instead, it constrains the conditions under which results produced by such formalisms
+may be meaningfully interpreted as statements about the same world.
+
+This includes, but is not limited to,
+learning-based systems, statistical inference,
+simulation-based studies, and empirical evaluation pipelines.
 
 ---
 
