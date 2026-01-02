@@ -227,9 +227,9 @@ They determine only whether claims are:
 - scoped,
 - and semantically comparable.
 
-ERROR → rule violation
-BLOCKED → insufficient declaration
-NON-COMPLIANT → invalid claim under declared world
+ERROR → rule violation <br>
+BLOCKED → insufficient declaration <br>
+NON-COMPLIANT → invalid claim under declared world <br>
 NOT COMPARABLE → no shared semantic basis for comparison
 
 
