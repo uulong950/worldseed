@@ -74,3 +74,15 @@ WorldSeed 项目包含以下核心组件：
   doi    = {10.5281/zenodo.18083337},
   note   = {Zenodo Record 18083337}
 }
+
+### 📘 Further Reading
+
+For concrete examples of how WorldSeed affects the interpretation
+and comparability of learning results, see:
+
+- Blog-01: When the World Becomes a First-Class Object
+  (blogs/blog01.md)
+
+These posts are illustrative, not normative.
+The specification and lint rules remain the sole authority.
+
